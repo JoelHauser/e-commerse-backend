@@ -16,8 +16,8 @@
 
   This repository manages the backend of my e-commerce store!
 
-  ![Demo]
-  (https://github.com/JoelHauser/e-commerse-backend/blob/main/demo/Untitled_%20May%207%2C%202022%207_45%20PM.gif)
+  [Link to full demonstration(too large for github)]
+  (https://drive.google.com/file/d/1FzK0rgOhYaJmcGvu2IrY1HVngPUOuZ1j/view)
   
   ## Installation
   
