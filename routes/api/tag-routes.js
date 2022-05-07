@@ -8,10 +8,10 @@ router.get("/", (req, res) => {
   // be sure to include its associated Product data
   Tag.findAll({
     include: {
-      module: Product,
+      model: Product,
     },
   })
-    .then((tagData) => req.json(tagData))
+    .then((tagData) => res.json(tagData))
     .catch((err) => {
       console.log(err);
       res.status(500).json(err);
