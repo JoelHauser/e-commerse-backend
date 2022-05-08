@@ -16,7 +16,7 @@
 
   This repository manages the backend of my e-commerce store!
 
-  [Link to full demonstration(too large for github)]
+  ![Link to full demonstration(too large for github)]
   (https://drive.google.com/file/d/1FzK0rgOhYaJmcGvu2IrY1HVngPUOuZ1j/view)
   
   ## Installation
