@@ -12,9 +12,11 @@
   * [Questions](#questions)
   * [Contributing](#contributing)
   
-  ![Link to full demonstration(too large for github)]
-  (https://drive.google.com/file/d/1FzK0rgOhYaJmcGvu2IrY1HVngPUOuZ1j/view)
+  ## Demo
+  This file was too big for github :o
   
+  https://drive.google.com/file/d/1FzK0rgOhYaJmcGvu2IrY1HVngPUOuZ1j/view
+
   ## Discription
 
   This repository manages the backend of my e-commerce store!
